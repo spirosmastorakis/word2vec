@@ -1,0 +1,5 @@
+trunk/*.dSYM
+trunk/*.dylib
+trunk/*.so
+trunk/.*
+trunk/*.o
